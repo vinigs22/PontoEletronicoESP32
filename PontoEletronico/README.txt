@@ -1,0 +1,1 @@
+Nesta versão do código, foram implementadas modificações para permitir o registro múltiplo do ponto dos funcionários no mesmo dia, assegurando uma maior precisão e flexibilidade no acompanhamento do horário de entrada e saída.
